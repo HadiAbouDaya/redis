@@ -16,6 +16,6 @@ cd payment</br>
 pip install -r requirements.txt</br>
 uvicorn main:app --reload --port 8001</br>
 
-third terminal:</br>
+Third terminal:</br>
 cd inventory-frontend</br>
 npm start
